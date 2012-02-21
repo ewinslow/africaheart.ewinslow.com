@@ -8,7 +8,7 @@
  */
 ?>
 <div class="HEART-banner">
-	<img src="<?php echo elgg_get_site_url(); ?>mod/HEART/assets/graphics/photos/TaitaStudent-banner.JPG" height="362" width="100%" />
+	<img src="<?php echo elgg_get_site_url(); ?>mod/HEART/assets/graphics/photos/TaitaStudent-banner.jpg" height="362" width="100%" />
 	<div class="HEART-banner-text">
 		<p><?php echo elgg_echo('HEART:vision'); ?></p>
 		<?php
